@@ -2,5 +2,5 @@
 
 # ProjectPegawai
 Class:
-- [ProjectPegawai.java (main)](https://github.com/Praktikum-PBO-S1SI-05-A/ProjectPegawai/blob/main/Pegawai.java)
-- [Pegawai.java](https://github.com/Praktikum-PBO-S1SI-05-A/ProjectPegawai/blob/main/ProjectPegawai.java)
+- [ProjectPegawai.java (main)](https://github.com/Praktikum-PBO-S1SI-05-A/ProjectPegawai/blob/main/src/main/java/praktikum/pbo/projectpegawai/ProjectPegawai.java)
+- [Pegawai.java](https://github.com/Praktikum-PBO-S1SI-05-A/ProjectPegawai/blob/main/src/main/java/praktikum/pbo/projectpegawai/Pegawai.java)
